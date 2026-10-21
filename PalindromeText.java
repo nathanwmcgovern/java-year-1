@@ -1,4 +1,4 @@
-public class Main 
+public class PalindromeText 
 {
     public static void main(String[] args) 
     {
